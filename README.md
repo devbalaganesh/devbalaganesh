@@ -39,7 +39,7 @@ I enjoy working across the stack — from **frontend interfaces** to **backend A
   <a href="https://www.linkedin.com/in/bala0711/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://x.com/ibalaganesh" target="_blank">
+  <a href="https://x.com/devbalaganesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://github.com/devbalaganesh" target="_blank">
