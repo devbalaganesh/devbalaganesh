@@ -1,22 +1,54 @@
 <h1 align="center">Hi 👋, I'm Bala Ganesh</h1>
-<h3 align="center">Full-stack Developer | Open-source Contributor | Next.js Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | Open-Source Contributor | Systems Enthusiast</h3>
 
-- 🔭 I’m currently building **Polymarket: A Real-time Betting Platform**
-- 🌱 I’m currently learning **Next.js, Prisma, WebSockets, and Real-time Systems**
-- 💬 Ask me about **React, Express, MongoDB, WebSockets**
-- 👨‍💻 All of my projects are available at https://ibala.dev
-- 📫 How to reach me: ibalaganesh.dev@gmail.com
-- ⚡ Fun fact: I love building side-projects that solve real-world problems!
+---
+
+### 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** focused on building **scalable, performant, and reliable web systems**.
+I enjoy working across the stack — from **frontend interfaces** to **backend APIs**, and occasionally diving into **system design and DevOps**.
+
+* 🌱 Currently learning **Next.js App Router**, **Prisma**, and **real-time backend architectures**
+* 💬 Ask me about **React, Express.js, MongoDB, and WebSockets**
+* 🧠 Interested in **open-source collaboration**, **developer tools**, and **automation systems**
+* 💻 Explore my work at [**ibala.dev**](https://ibala.dev)
+* 📫 Reach me at **[ibalaganesh.dev@gmail.com](mailto:ibalaganesh.dev@gmail.com)**
+
+---
 
 ### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
-![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=prisma)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balaganesh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balaganesh&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,mongodb,prisma,tailwind,docker,git,linux,vscode" />
+</p>
+
+---
+
+### 💡 What I Focus On
+
+* Building **modern, scalable web applications**
+* Designing **API-driven backend architectures**
+* Implementing **real-time features** with WebSockets & event-driven systems
+* Writing **clean, maintainable code** that scales with the team
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bala0711/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/ibalaganesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://github.com/balaganesh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>✨ “Building things that make the web a little smarter, faster, and more fun.” ✨</sub>
+</p>
