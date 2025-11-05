@@ -42,7 +42,7 @@ I enjoy working across the stack — from **frontend interfaces** to **backend A
   <a href="https://x.com/ibalaganesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://github.com/balaganesh" target="_blank">
+  <a href="https://github.com/devbalaganesh" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
